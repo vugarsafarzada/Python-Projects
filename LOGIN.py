@@ -1,6 +1,7 @@
 s_uname = "vuqarsefer"
 s_upasw = "2001"
 
+print(f'username: {s_uname},\n password: {s_upsaw}')
 
 mistake = 3
 
