@@ -5,7 +5,7 @@ def factorials(num):
         z*=i
         i+=1
     print("Factorial: ",z)
-
-usernum = int(input("Num: "))
-factorials(usernum)
+while True:
+    usernum = int(input("Num: "))
+    factorials(usernum)
 
