@@ -1,0 +1,20 @@
+1. Veri yapýlarý ve algoritmalar
+
+2. Sürüm kontrolü (Git)
+
+3. Metin editörleri (Vim)
+
+4. Tümleþik geliþtirme ortamlarý (IDE)
+
+5. Veri tabaný ve SQL
+
+6. UNIX veya Linux
+
+7. Microsoft Excel
+
+8. Programlama dilleri
+
+9. Network temelleri
+
+10. Komut dilleri
+
