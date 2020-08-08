@@ -1,7 +1,6 @@
 s_uname = "vuqarsefer"
 s_upasw = "2001"
 
-print('username: {},\n password: {}'.format(s_uname,s_upsaw))
 
 mistake = 3
 
